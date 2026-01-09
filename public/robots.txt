@@ -1,0 +1,3 @@
+Sitemap: https://thecozycornerbycasas.vercel.app/sitemap.xml
+User-agent: *
+Disallow:
